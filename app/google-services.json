@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319332153253",
+    "project_id": "crud-f19d6",
+    "storage_bucket": "crud-f19d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319332153253:android:f4aacd1ac948f13b551a4c",
+        "android_client_info": {
+          "package_name": "com.estacio.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319332153253-glfkahmd6to78lrkvaema45cs5a69lhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50GmWIMfyh7n4CVzTpsUJ7rzooLA6LdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319332153253-glfkahmd6to78lrkvaema45cs5a69lhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
