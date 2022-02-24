@@ -18,7 +18,7 @@ Desafio de proposto pela <strong>faculdade</strong>
 
 - Java
 - Android Studio
-
+- Firebase
 ---
 
 
